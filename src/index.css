@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.grid {
+  grid-auto-rows: auto;
+}
